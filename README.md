@@ -1,4 +1,4 @@
-La app desarrollada con Python y la libreria Streamlit es un aplicacion web interactiva que nos permite desplegar modelos de aprendizaje supervisado (ML).
+La app desarrollada con Python y la libreria Streamlit es una aplicacion web interactiva que nos permite desplegar modelos de aprendizaje supervisado (ML).
 
 # API creado con Streamlit 
 El editor de codigo fuente usado es Visual Studio Code, donde debemos 
